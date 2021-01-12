@@ -12,6 +12,7 @@ lastPlaylist.sh <user_name> <mix|recomended|library>
 
 * eyeD3
 * ytdl
+* jq
 
 ## Known bugs
 
